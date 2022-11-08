@@ -1,2 +1,2 @@
-myapp  gfhdfbghjf
+myappsample
 this is my app
